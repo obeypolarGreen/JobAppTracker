@@ -1,3 +1,6 @@
+https://job-app-tracker-inky.vercel.app/<img width="734" height="48" alt="image" src="https://github.com/user-attachments/assets/7f4d60e3-f329-4f00-8967-a2e3c6432784" />
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
