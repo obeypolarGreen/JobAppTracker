@@ -1,4 +1,7 @@
-https://job-app-tracker-inky.vercel.app/<img width="734" height="48" alt="image" src="https://github.com/user-attachments/assets/7f4d60e3-f329-4f00-8967-a2e3c6432784" />
+https://job-app-tracker-inky.vercel.app/
+
+<img width="1616" height="554" alt="image" src="https://github.com/user-attachments/assets/9b4af739-1f34-449b-a481-28253a8ce351" />
+
 
 
 # React + Vite
